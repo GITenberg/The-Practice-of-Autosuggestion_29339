@@ -1,0 +1,35 @@
+_repo: The-Practice-of-Autosuggestion_29339
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Coué, Emile
+    alias: Coue, Emile
+    birthdate: 1857
+    deathdate: 1926
+    gutenberg_agent_id: '32537'
+    url: http://www.gutenberg.org/2009/agents/32537
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brooks, C. Harry (Cyrus Harry)
+    alias: Brooks, Cyrus Harry
+    birthdate: 1890
+    gutenberg_agent_id: '33857'
+    url: http://www.gutenberg.org/2009/agents/33857
+description: ''
+gutenberg_issued: '2009-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29339'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Coué, Emile, 1857-1926'
+- !lcc 'RM'
+- !lcsh 'Mental suggestion'
+title: The Practice of Autosuggestion
+url: http://www.gutenberg.org/ebooks/29339
